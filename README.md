@@ -1,12 +1,18 @@
-Alex Becz — DaRKer THeME Portfolio Landing Page
-High-impact, cyberpunk-styled personal site for Alex Becz, Senior / Staff Technical Recruiter specializing in AI, Cybersecurity, and Graphics.
-Features
-Responsive Layout: Tailored with Tailwind CSS
-Interactive UI: Dynamic modal resume view, copy-to-clipboard toast messages
-Interconnected Sourcing Links: Seamless routing to Alex's Weebly domain sections and social profiles
+AlEx BeCz — DaRKeR tHeMe PoRtFoLiO lAnDiNg PaGe
+HiGh-ImPaCt, CyBeRpUnK-sTyLeD pErSoNaL sItE fOr AlEx BeCz, SeNiOr / StAfF tEcHnIcAl ReCrUiTeR sPeCiAlIzInG iN aI, cYbErSeCuRiTy, AnD gRaPhIcS.
+FeAtUrEs
+
+ReSpOnSiVe LaYoUt: TaIlOrEd WiTh TaIlWiNd CsS
+
+InTeRaCtIvE uI: dYnAmIc MoDaL rEsUmE vIeW, cOpY-tO-cLiPbOaRd ToAsT mEsSaGeS
+
+InTeRcOnNeCtEd SoUrCiNg LiNkS: sEaMlEsS rOuTiNg To AlEx'S wEeBlY dOmAiN sEcTiOnS aNd SoCiAl PrOfIlEs
+
+OpEn ViA : > OpEn WiTh ** ( uSe ChRoMe FoR bEsT vIeWiNg, BuT mOzIlLa/FiReFoX, bRaVe AnD sAfArI wOrK jUsT fInE)
 
 
-Open via : > Open with ** ( use chrome for best viewing, but Mozilla/Firefox, Brave and Safari work just fine)
+HoStInG
 
-Hosting
-Hosted on GitHub Pages via static export.
+HoStEd On GiThUb PaGeS vIa StAtIc ExPoRt.
+
+
